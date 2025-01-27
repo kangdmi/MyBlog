@@ -9,3 +9,5 @@ Added image in Introduction page to practise.
 It has to be mininmum five pages.
 
 Following pages added for practise
+
+[Introduction]: https://jekyllrb.com/docs/home
